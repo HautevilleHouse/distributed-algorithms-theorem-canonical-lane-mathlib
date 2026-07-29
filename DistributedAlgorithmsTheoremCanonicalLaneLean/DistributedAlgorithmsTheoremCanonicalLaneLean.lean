@@ -1,0 +1,9 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DistributedAlgorithmsTheoremCanonicalLaneLean
+
+-- Root module for the Distributed Algorithms Theorem canonical lane
+
+end DistributedAlgorithmsTheoremCanonicalLaneLean
+end HautevilleHouse
